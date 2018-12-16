@@ -2,3 +2,5 @@ Q:What happens when you initialize a repository? Why do you need to do it?
 A:Git created .git directory with its files that are needed to git to work here.
 Q:How is the staging area different from the working directory and the repository? What value do you think it offers?
 A:Staging area contains only things that I want commit, so not all files in working directory, from repository is different that it only contains chnges in some files. I can work on all files in working directory but commit only some, for that we have staging area.
+Q:How can you use the staging area to make sure you have one commit per logical change?
+A:I can check the diff between working directory and stage are to see what will be in the commit or the change I will do to the repository by diff --staged.
