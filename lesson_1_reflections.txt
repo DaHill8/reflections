@@ -7,7 +7,7 @@ A:Pros-functional change-give more sense to read commit logs and work with that;
 Q:Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 A:Git is more for development and change might impact more files, Google docs wants track document changes mainly for backup or that the change impact only single file.
 Q:How can you use the commands git log and git diff to view the history of files?
-A:Git log for overview of commits, the change commnet. And diff for comparing two commits, what have changed between them.
+A:Git log for overview of commits, the change comment. And diff for comparing two commits, what have changed between them.
 Q:How might using version control make you more confident to make changes that could break something?
 A:I can come back to old code which worked or look at diff and control what can be the source of the problem.
 Q:Now that you have your workspace set up, what do you want to try using Git for?
