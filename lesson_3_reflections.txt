@@ -9,3 +9,6 @@ Q:What is the benefit of having a copy of the last known state of the remote sto
 A:I can see diff before/without merging. For offline purposes.
 Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A:Easier:Understanding of changes as we need to communicate a lot. Harder: Merging our changes, code maintenance.
+Q:When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A:Separate branch:for new/change feature, for better collaboration(pull request). Directly in master: quick bug fix, or change needed,
+  add something without collaboration(local).
