@@ -7,3 +7,5 @@ A:Forks are like clones but only on GitHub - for copying somebodys work on GitHu
   Branches are different paths for work on repository, when I want to implement something little bit different so master stays same I do a branch.
 Q:What is the benefit of having a copy of the last known state of the remote stored locally?
 A:I can see diff before/without merging. For offline purposes.
+Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A:Easier:Understanding of changes as we need to communicate a lot. Harder: Merging our changes, code maintenance.
